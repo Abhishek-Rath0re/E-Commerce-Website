@@ -1,1 +1,2 @@
-# E-Commerce-Website
+# E-commerce-website
+This is a front end project.
